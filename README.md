@@ -1,4 +1,4 @@
-# The Irregular at Magic High School: Recollection Arc
+# The Irregular at Magic High School: Reminiscence Arc
 
 Mahouka Koukou no Rettousei: Tsuioku-hen
 
