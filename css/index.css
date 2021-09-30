@@ -1,0 +1,26 @@
+
+.bg-large{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-image: url(../img/img_main@2x.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    z-index: 9998;
+}
+
+.bg{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-image: url(../img/img_main.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    z-index: 9999;
+}
